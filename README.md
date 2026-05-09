@@ -1,4 +1,5 @@
 This is a political bias detection module as part of our B.tech final year main project.
+The module checks the sentiment and emotion conveyed in a given text and also checks for political bias in the text.
 Overall project is to build a webpage credibility checking extension.
 As part of it, i have done with the political bias detection from text.
 
