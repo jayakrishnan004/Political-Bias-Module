@@ -1,3 +1,7 @@
+This is a political bias detection module as part of our B.tech final year main project.
+Overall project is to build a webpage credibility checking extension.
+As part of it, i have done with the political bias detection from text possible.
+
 # political_bias_nlp
 
 A clean, modular Python package for detecting political bias in news articles
